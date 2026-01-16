@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The research of the Quantum Optimization Research Group focuses on the development of advanced optimization algorithms for computationally challenging decision-making problems. Our work is motivated by the growing need for scalable and reliable solution methods for problem classes that arise in engineering design, control, finance, and large-scale systems optimization.\nA central theme of our research is the investigation of hybrid quantum–classical computational frameworks, where emerging quantum resources are integrated into well-established classical optimization methods in a principled and theoretically grounded manner."
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
+    "section": "",
+    "text": "The research of the Quantum Optimization Research Group focuses on the development of advanced optimization algorithms for computationally challenging decision-making problems. Our work is motivated by the growing need for scalable and reliable solution methods for problem classes that arise in engineering design, control, finance, and large-scale systems optimization.\nA central theme of our research is the investigation of hybrid quantum–classical computational frameworks, where emerging quantum resources are integrated into well-established classical optimization methods in a principled and theoretically grounded manner."
+  },
+  {
+    "objectID": "research.html#core-problem-class-mixed-integer-semidefinite-programming",
+    "href": "research.html#core-problem-class-mixed-integer-semidefinite-programming",
+    "title": "Research",
+    "section": "Core Problem Class: Mixed-Integer Semidefinite Programming",
+    "text": "Core Problem Class: Mixed-Integer Semidefinite Programming\nA major focus of the group is Mixed-Integer Semidefinite Programming (MISDP). MISDP problems combine:\n\nDiscrete decision variables\n\nContinuous semidefinite constraints\n\nNonlinear and nonconvex feasible regions\n\nThese problems are known to be NP-hard and represent a significant computational bottleneck for existing optimization solvers. Despite their difficulty, MISDP models naturally arise in many real-world applications, including robust control, portfolio optimization, structural design, and systems engineering.\nOur research aims to develop algorithmic frameworks that address the intrinsic complexity of MISDP while preserving solution quality and theoretical guarantees."
+  },
+  {
+    "objectID": "research.html#methodological-framework",
+    "href": "research.html#methodological-framework",
+    "title": "Research",
+    "section": "Methodological Framework",
+    "text": "Methodological Framework\nThe group adopts a decomposition-based approach to tackle MISDP problems. Our methodological toolbox includes:\n\nSemidefinite programming relaxations\n\nCutting-plane and outer-approximation methods\n\nBranch-and-bound and branch-and-cut frameworks\n\nProblem-specific reformulations and relaxations\n\nThese techniques allow large and complex optimization problems to be decomposed into more tractable subproblems, enabling systematic exploration of the solution space."
+  },
+  {
+    "objectID": "research.html#quantumclassical-integration",
+    "href": "research.html#quantumclassical-integration",
+    "title": "Research",
+    "section": "Quantum–Classical Integration",
+    "text": "Quantum–Classical Integration\nA distinctive aspect of our research is the integration of quantum computational subroutines into classical optimization frameworks. Rather than replacing classical solvers, we investigate how quantum algorithms can be used to accelerate or enhance specific computational components, such as:\n\nSolving structured subproblems\n\nImproving relaxation quality\n\nEnhancing branching or cut-generation strategies\n\nThis hybrid perspective ensures that quantum resources are used where they are most effective, while classical optimization methods provide robustness, scalability, and interpretability."
+  },
+  {
+    "objectID": "research.html#expected-contributions",
+    "href": "research.html#expected-contributions",
+    "title": "Research",
+    "section": "Expected Contributions",
+    "text": "Expected Contributions\nOur research contributes to both theory and practice by:\n\nDeveloping novel hybrid quantum–classical optimization algorithms\n\nAdvancing the algorithmic understanding of MISDP\n\nProviding rigorous computational benchmarks and performance analyses\n\nEstablishing principled guidelines for integrating quantum methods into classical solvers\n\nThrough these contributions, the group aims to bridge the gap between emerging quantum technologies and practical large-scale optimization."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Industrial Engineering\nBilkent University\nRole: Principal Investigator (Y)\nResearch Interests:\nQuantum optimization, semi-definite programming, mixed-integer optimization, hybrid quantum–classical algorithms."
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Industrial Engineering\nBilkent University\nRole: Principal Investigator (Y)\nResearch Interests:\nQuantum optimization, semi-definite programming, mixed-integer optimization, hybrid quantum–classical algorithms."
+  },
+  {
+    "objectID": "people.html#researchers",
+    "href": "people.html#researchers",
+    "title": "People",
+    "section": "Researchers",
+    "text": "Researchers\n\n\n\nDr. Öğr. Üyesi Cihan Okay\nAssistant Professor\nDepartment of Mathematics\nBilkent University\nRole: Researcher (A)\n\n\n\n\n\nDr. Öğr. Üyesi Diego Moran Ramirez\nAssistant Professor\nDepartment of Industrial and Systems Engineering\nRensselaer Polytechnic Institute\nRole: Researcher (YA)"
+  },
+  {
+    "objectID": "people.html#advisor",
+    "href": "people.html#advisor",
+    "title": "People",
+    "section": "Advisor",
+    "text": "Advisor\n\n\n\nDoç. Dr. Burak Kocuk\nAssociate Professor\nFaculty of Engineering and Natural Sciences\nSabancı University\nRole: Advisor (D)"
+  },
+  {
+    "objectID": "people.html#phd-students",
+    "href": "people.html#phd-students",
+    "title": "People",
+    "section": "PhD Students",
+    "text": "PhD Students\n\nStudent Name\nResearch Topic: Quantum optimization, semi-definite programming\nAffiliation: Department of Industrial Engineering, Bilkent University\n\n\n\nStudent Name\nResearch Topic: Mixed-integer optimization, cutting-plane methods\nAffiliation: Department of Industrial Engineering, Bilkent University"
+  },
+  {
+    "objectID": "people.html#msc-students",
+    "href": "people.html#msc-students",
+    "title": "People",
+    "section": "MSc Students",
+    "text": "MSc Students\n\nStudent Name\nFocus Area: Hybrid optimization algorithms\nAffiliation: Department of Industrial Engineering, Bilkent University\n\n\n\nStudent Name\nFocus Area: Computational optimization\nAffiliation: Department of Industrial Engineering, Bilkent University"
+  },
+  {
+    "objectID": "people.html#undergraduate-students",
+    "href": "people.html#undergraduate-students",
+    "title": "People",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\n\nAbide Sıla Yapıcıoğlu\nRole: Undergraduate Research Assistant\nAffiliation: Department of Industrial Engineering, Bilkent University\n\n\n\nStudent Name\nRole: Undergraduate Research Assistant\nAffiliation: Department of Industrial Engineering, Bilkent University"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research at the intersection of optimization theory, computational methods, and emerging quantum technologies.\nOur work is driven by fundamental questions in mathematical optimization and decision science, with a particular emphasis on developing algorithmic frameworks that are both theoretically sound and computationally effective."
+  },
+  {
+    "objectID": "about.html#about-the-group",
+    "href": "about.html#about-the-group",
+    "title": "About",
+    "section": "",
+    "text": "The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research at the intersection of optimization theory, computational methods, and emerging quantum technologies.\nOur work is driven by fundamental questions in mathematical optimization and decision science, with a particular emphasis on developing algorithmic frameworks that are both theoretically sound and computationally effective."
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About",
+    "section": "Mission",
+    "text": "Mission\nThe mission of the group is to advance the state of the art in optimization by:\n\nDeveloping rigorous and scalable optimization algorithms\n\nBridging classical optimization methods with emerging quantum computational paradigms\n\nTraining students in mathematically grounded, algorithm-oriented research\n\nContributing to open, reproducible, and high-impact scientific research\n\nWe aim to produce research that is relevant both to the academic community and to real-world decision-making problems."
+  },
+  {
+    "objectID": "about.html#research-philosophy",
+    "href": "about.html#research-philosophy",
+    "title": "About",
+    "section": "Research Philosophy",
+    "text": "Research Philosophy\nThe group follows a methodology-driven research philosophy. Rather than treating quantum computing as a standalone solution, we investigate how quantum resources can be meaningfully integrated into classical optimization frameworks.\nOur research emphasizes: - Mathematical rigor and theoretical guarantees\n- Careful algorithm design and decomposition\n- Transparent computational benchmarking\n- Practical relevance and scalability\nThis philosophy ensures that proposed methods are robust, interpretable, and suitable for real-world applications."
+  },
+  {
+    "objectID": "about.html#collaboration-and-environment",
+    "href": "about.html#collaboration-and-environment",
+    "title": "About",
+    "section": "Collaboration and Environment",
+    "text": "Collaboration and Environment\nThe Quantum Optimization Research Group maintains an open and collaborative research environment. We actively collaborate with researchers from different disciplines, including:\n\nIndustrial Engineering\n\nMathematics\n\nComputer Science\n\nSystems and Control Engineering\n\nThe group also participates in national and international research projects and welcomes collaboration with academic and industrial partners."
+  },
+  {
+    "objectID": "about.html#location-and-affiliation",
+    "href": "about.html#location-and-affiliation",
+    "title": "About",
+    "section": "Location and Affiliation",
+    "text": "Location and Affiliation\nThe group is affiliated with Bilkent University, one of the leading research universities in Türkiye. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community.\nResearch activities are conducted within the Department of Industrial Engineering, benefiting from close interaction with faculty and students across departments."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Quantum Optimization Research Group",
+    "section": "",
+    "text": "The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research on quantum optimization, computational methods, and mathematical modeling."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Welcome to Quantum Optimization Research Group",
+    "section": "Overview",
+    "text": "Overview\nThe Quantum Optimization Research Group focuses on the development of hybrid quantum classical optimization algorithms for challenging problems arising in mathematical optimization and decision science. Our work lies at the intersection of quantum computing, optimization theory, and computational methods."
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Welcome to Quantum Optimization Research Group",
+    "section": "Research Focus",
+    "text": "Research Focus\nOur primary research direction is the design and analysis of algorithms for Mixed Integer Semidefinite Programming and related problem classes. These problems are computationally demanding and arise in a wide range of applications, including control, finance, and engineering design.\nWe investigate how quantum resources, when integrated with classical optimization frameworks, can improve performance in terms of solution quality, scalability, and computational efficiency."
+  },
+  {
+    "objectID": "index.html#methodological-approach",
+    "href": "index.html#methodological-approach",
+    "title": "Welcome to Quantum Optimization Research Group",
+    "section": "Methodological Approach",
+    "text": "Methodological Approach\nOur research emphasizes: - Hybrid quantum classical algorithm design\n- Semidefinite programming and cutting-plane methods\n- Branch and bound frameworks for mixed-integer problems\n- Computational benchmarking and performance evaluation"
+  },
+  {
+    "objectID": "index.html#keywords",
+    "href": "index.html#keywords",
+    "title": "Welcome to Quantum Optimization Research Group",
+    "section": "Keywords",
+    "text": "Keywords\nHybrid quantum classical optimization, MISDP, semidefinite programming, branch and bound, quantum algorithms"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "References\n\nSurname, Name, and Second Coauthor. 2024. “Hybrid Quantum–Classical Methods for Semi-Definite Optimization.” Journal of Optimization Theory."
+  }
+]
