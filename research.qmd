@@ -1,0 +1,41 @@
+---
+title: "Research"
+---
+
+## Research Overview
+
+Our research focuses on the development of mathematical and computational methods for solving large-scale optimization and decision-making problems. We are particularly interested in hybrid classical???quantum approaches and their applications to complex optimization models.
+
+---
+
+## Research Themes
+
+### Mathematical Optimization
+
+We study theoretical and algorithmic aspects of mathematical optimization, including convex and non-convex problems, relaxations, and approximation techniques.
+
+**Keywords:** convex optimization, non-convex optimization, relaxations
+
+---
+
+### Semi-Definite Programming and MISDP
+
+Our work includes the development of solution methods for semi-definite programming (SDP) and mixed-integer semi-definite programming (MISDP) problems, with an emphasis on decomposition and cutting-plane approaches.
+
+**Keywords:** SDP, MISDP, cutting planes, relaxations
+
+---
+
+### Quantum and Hybrid Algorithms
+
+We investigate how quantum computing techniques can be integrated with classical optimization algorithms to improve performance on challenging optimization problems.
+
+**Keywords:** quantum optimization, hybrid algorithms, variational methods
+
+---
+
+### Computational Optimization and Implementation
+
+We focus on efficient implementations, numerical experiments, and software development to ensure scalability and reproducibility of optimization algorithms.
+
+**Keywords:** numerical optimization, software, large-scale computation

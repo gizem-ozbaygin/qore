@@ -1,0 +1,8 @@
+---
+title: "research-group-website"
+---
+
+## Welcome
+
+We are a research group working on quantum optimization, computation, and mathematical modeling.
+

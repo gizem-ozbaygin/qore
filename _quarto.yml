@@ -1,0 +1,33 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "Hybrid Quantum Optimization Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    bibliography: references.bib
+
+
+
+
+

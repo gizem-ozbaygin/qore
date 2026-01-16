@@ -1,0 +1,51 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+**Name Surname**  
+Department, University  
+Email: name@university.edu  
+Website: https://example.com  
+Google Scholar: https://scholar.google.com
+
+### Short Bio
+
+Name Surname is a faculty member in the Department of XXXX at XXXX University. Their research focuses on the development of optimization methods and computational techniques for large-scale and complex decision-making problems.
+
+### Research Interests
+
+- Mathematical optimization
+- Quantum and hybrid algorithms
+- Semi-definite programming
+- Computational optimization
+
+
+---
+
+## Group Members
+
+### PhD Students
+
+| Name | Topic / Role | Link |
+|---|---|---|
+| [Student Name](https://example.com) | Optimization, quantum algorithms | [Scholar](https://scholar.google.com) |
+
+### MSc Students
+
+| Name | Topic / Role | Link |
+|---|---|---|
+| Student Name | SDP relaxations, cutting planes |  |
+
+### Undergraduate Researchers
+
+| Name | Topic / Role | Link |
+|---|---|---|
+| Student Name | Implementation, experiments |  |
+
+
+---
+
+## Alumni
+- Name ??? Current position
