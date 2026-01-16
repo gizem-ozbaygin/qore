@@ -4,38 +4,59 @@ title: "Research"
 
 ## Research Overview
 
-Our research focuses on the development of mathematical and computational methods for solving large-scale optimization and decision-making problems. We are particularly interested in hybrid classical???quantum approaches and their applications to complex optimization models.
+The research of the Quantum Optimization Research Group focuses on the development of advanced optimization algorithms for computationally challenging decision-making problems. Our work is motivated by the growing need for scalable and reliable solution methods for problem classes that arise in engineering design, control, finance, and large-scale systems optimization.
+
+A central theme of our research is the investigation of **hybrid quantum–classical computational frameworks**, where emerging quantum resources are integrated into well-established classical optimization methods in a principled and theoretically grounded manner.
 
 ---
 
-## Research Themes
+## Core Problem Class: Mixed-Integer Semidefinite Programming
 
-### Mathematical Optimization
+A major focus of the group is **Mixed-Integer Semidefinite Programming (MISDP)**. MISDP problems combine:
 
-We study theoretical and algorithmic aspects of mathematical optimization, including convex and non-convex problems, relaxations, and approximation techniques.
+- Discrete decision variables  
+- Continuous semidefinite constraints  
+- Nonlinear and nonconvex feasible regions  
 
-**Keywords:** convex optimization, non-convex optimization, relaxations
+These problems are known to be **NP-hard** and represent a significant computational bottleneck for existing optimization solvers. Despite their difficulty, MISDP models naturally arise in many real-world applications, including robust control, portfolio optimization, structural design, and systems engineering.
 
----
-
-### Semi-Definite Programming and MISDP
-
-Our work includes the development of solution methods for semi-definite programming (SDP) and mixed-integer semi-definite programming (MISDP) problems, with an emphasis on decomposition and cutting-plane approaches.
-
-**Keywords:** SDP, MISDP, cutting planes, relaxations
+Our research aims to develop algorithmic frameworks that address the intrinsic complexity of MISDP while preserving solution quality and theoretical guarantees.
 
 ---
 
-### Quantum and Hybrid Algorithms
+## Methodological Framework
 
-We investigate how quantum computing techniques can be integrated with classical optimization algorithms to improve performance on challenging optimization problems.
+The group adopts a decomposition-based approach to tackle MISDP problems. Our methodological toolbox includes:
 
-**Keywords:** quantum optimization, hybrid algorithms, variational methods
+- Semidefinite programming relaxations  
+- Cutting-plane and outer-approximation methods  
+- Branch-and-bound and branch-and-cut frameworks  
+- Problem-specific reformulations and relaxations  
+
+These techniques allow large and complex optimization problems to be decomposed into more tractable subproblems, enabling systematic exploration of the solution space.
 
 ---
 
-### Computational Optimization and Implementation
+## Quantum–Classical Integration
 
-We focus on efficient implementations, numerical experiments, and software development to ensure scalability and reproducibility of optimization algorithms.
+A distinctive aspect of our research is the **integration of quantum computational subroutines into classical optimization frameworks**. Rather than replacing classical solvers, we investigate how quantum algorithms can be used to accelerate or enhance specific computational components, such as:
 
-**Keywords:** numerical optimization, software, large-scale computation
+- Solving structured subproblems  
+- Improving relaxation quality  
+- Enhancing branching or cut-generation strategies  
+
+This hybrid perspective ensures that quantum resources are used where they are most effective, while classical optimization methods provide robustness, scalability, and interpretability.
+
+---
+
+## Expected Contributions
+
+Our research contributes to both theory and practice by:
+
+- Developing novel hybrid quantum–classical optimization algorithms  
+- Advancing the algorithmic understanding of MISDP  
+- Providing rigorous computational benchmarks and performance analyses  
+- Establishing principled guidelines for integrating quantum methods into classical solvers  
+
+Through these contributions, the group aims to bridge the gap between emerging quantum technologies and practical large-scale optimization.
+

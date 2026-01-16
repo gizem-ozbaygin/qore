@@ -1,1 +1,18 @@
 /* css styles */
+/* Headings */
+h1, h2, h3 {
+  color: #1f3c88;
+}
+
+/* Navbar brand */
+.navbar-brand {
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #1f3c88;
+}
+a:hover {
+  color: #162e66;
+}

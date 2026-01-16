@@ -1,8 +1,33 @@
 ---
-title: "research-group-website"
+title: "Welcome to Quantum Optimization Research Group"
 ---
 
-## Welcome
+![](images/home.jpg){width=100%}
 
-We are a research group working on quantum optimization, computation, and mathematical modeling.
+
+  The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research on quantum optimization, computational methods, and mathematical modeling.
+
+
+## Overview
+
+The Quantum Optimization Research Group focuses on the development of **hybrid quantum classical optimization algorithms** for challenging problems arising in mathematical optimization and decision science. Our work lies at the intersection of **quantum computing**, **optimization theory**, and **computational methods**.
+
+## Research Focus
+
+Our primary research direction is the design and analysis of algorithms for **Mixed Integer Semidefinite Programming** and related problem classes. These problems are computationally demanding and arise in a wide range of applications, including control, finance, and engineering design.
+
+We investigate how **quantum resources**, when integrated with classical optimization frameworks, can improve performance in terms of solution quality, scalability, and computational efficiency.
+
+## Methodological Approach
+
+Our research emphasizes:
+- Hybrid quantum classical algorithm design  
+- Semidefinite programming and cutting-plane methods  
+- Branch and bound frameworks for mixed-integer problems  
+- Computational benchmarking and performance evaluation  
+
+## Keywords
+
+*Hybrid quantum classical optimization, MISDP, semidefinite programming, branch and bound, quantum algorithms*
+
 
