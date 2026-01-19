@@ -1,0 +1,17 @@
+---
+title: "Projects"
+---
+
+## Active Projects
+
+**Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems**
+* **Funding Source:** TÜBİTAK
+* **Budget:** 2,191,600 TL
+* **Period:** 2025–2028
+
+---
+
+**Solving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver**
+* **Period:** 2025-2026
+
+---
