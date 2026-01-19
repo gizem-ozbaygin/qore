@@ -2,57 +2,43 @@
 title: "About"
 ---
 
-## About the Group
+## About QORE
 
-The Quantum Optimization Research Group is based in the **Department of Industrial Engineering at Bilkent University**. The group conducts research at the intersection of optimization theory, computational methods, and emerging quantum technologies.
-
-Our work is driven by fundamental questions in mathematical optimization and decision science, with a particular emphasis on developing algorithmic frameworks that are both theoretically sound and computationally effective.
+**QORE** (Quantum Operations Research) is a research lab founded at **Bilkent University**. Our lab is home to a global team of researchers who are experts in various scientific fields. By combining our knowledge from across the world, we are able to approach optimization and quantum technology from new and innovative perspectives.  We work at the intersection of optimization theory, computational methods, and emerging quantum technologies.
 
 ---
 
 ## Mission
 
-The mission of the group is to advance the state of the art in optimization by:
+**QORE** aims to advance the field of optimization by:
 
-- Developing rigorous and scalable optimization algorithms  
-- Bridging classical optimization methods with emerging quantum computational paradigms  
-- Training students in mathematically grounded, algorithm-oriented research  
-- Contributing to open, reproducible, and high-impact scientific research  
+* **Building fast and reliable algorithms** to solve complex problems
+* **Bridging classical optimization methods** with emerging quantum computational paradigms
+* **Training students** in mathematically grounded, algorithm-oriented research
+* **Scientifically contributing** to open, reproducible, and high-impact research
 
-We aim to produce research that is relevant both to the academic community and to real-world decision-making problems.
-
----
-
-## Research Philosophy
-
-The group follows a **methodology-driven research philosophy**. Rather than treating quantum computing as a standalone solution, we investigate how quantum resources can be meaningfully integrated into classical optimization frameworks.
-
-Our research emphasizes:
-- Mathematical rigor and theoretical guarantees  
-- Careful algorithm design and decomposition  
-- Transparent computational benchmarking  
-- Practical relevance and scalability  
-
-This philosophy ensures that proposed methods are robust, interpretable, and suitable for real-world applications.
+We aim to conduct research that is valuable to both the academic community and for solving real-world problems.
 
 ---
 
-## Collaboration and Environment
+## How We Work
 
-The Quantum Optimization Research Group maintains an open and collaborative research environment. We actively collaborate with researchers from different disciplines, including:
+At **QORE**, we do not treat quantum computing as a stand-alone solution. Instead, we study how quantum tools can be integrated into existing mathematical frameworks to solve problems more effectively.
 
-- Industrial Engineering  
-- Mathematics  
-- Computer Science  
-- Systems and Control Engineering  
+In our research, we prioritize:
+* **Mathematical rigor** and clear theoretical foundations.
+* **Smart algorithm design** and decomposition.
+* **Computational benchmarking** to measure how well our methods perform and scale.
+---
 
-The group also participates in national and international research projects and welcomes collaboration with academic and industrial partners.
+## Collaboration
+
+**QORE** is a collaborative group. We work with experts across different disciplines, participate in national and international projects and welcome partnerships with both academic and industrial partners.
 
 ---
 
-## Location and Affiliation
+## Where We Are
 
-The group is affiliated with **Bilkent University**, one of the leading research universities in Türkiye. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community.
+**QORE** is based in the **Department of Industrial Engineering** at **Bilkent University**, one of the leading research universities in Türkiye. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community.
 
-Research activities are conducted within the Department of Industrial Engineering, benefiting from close interaction with faculty and students across departments.
-
+---
