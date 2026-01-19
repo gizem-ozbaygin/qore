@@ -2,104 +2,79 @@
 title: "People"
 ---
 
-## Principal Investigator
+## Director
 
 ::: {.person}
 ![](images/people/ozbaygin.jpg){width=180px}
 
-### Dr. Öğr. Üyesi Amine Gizem Tiniç  
-**Assistant Professor**  
-Department of Industrial Engineering  
-Bilkent University  
+### Dr. Amine Gizem Tiniç
+**Assistant Professor**
+Department of Industrial Engineering, Bilkent University
 
-**Role:** Principal Investigator (Y)  
-
-**Research Interests:**  
-Quantum optimization, semi-definite programming, mixed-integer optimization, hybrid quantum–classical algorithms.
+**Research Interests:**
+Mixed-integer optimization, quantum algorithms, and hybrid optimization methods.
 :::
 
 ---
 
-## Researchers
+## Affiliated Faculty
+
+::: {.person}
+![](images/people/ulus.jpg){width=160px}
+### Dr. Firdevs Ulus
+**Associate Professor**
+Department of Industrial Engineering, Bilkent University
+:::
+
+::: {.person}
+![](images/people/cavus.jpg){width=160px}
+### Dr. Özlem Çavuş
+**Associate Professor**
+Department of Industrial Engineering, Bilkent University
+:::
 
 ::: {.person}
 ![](images/people/okay.jpg){width=160px}
+### Dr. Cihan Okay
+**Assistant Professor**
+Department of Mathematics, Bilkent University
+:::
 
-### Dr. Öğr. Üyesi Cihan Okay  
-**Assistant Professor**  
-Department of Mathematics  
-Bilkent University  
+Experts from around the globe collaborate with **QORE** on various research initiatives and interdisciplinary projects.
 
-**Role:** Researcher (A)  
+::: {.person}
+![](images/people/kocuk.jpg){width=160px}
+### Dr. Burak Kocuk
+**Associate Professor**
+Engineering and Natural Sciences, Sabancı University
 :::
 
 ::: {.person}
 ![](images/people/ramirez.jpg){width=160px}
-
-### Dr. Öğr. Üyesi Diego Moran Ramirez  
-**Assistant Professor**  
-Department of Industrial and Systems Engineering  
-Rensselaer Polytechnic Institute  
-
-**Role:** Researcher (YA)  
+### Dr. Diego Moran Ramirez
+**Assistant Professor**
+Industrial and Systems Engineering, Rensselaer Polytechnic Institute
 :::
-
----
-
-## Advisor
 
 ::: {.person}
-![](images/people/kocuk.jpg){width=160px}
-
-### Doç. Dr. Burak Kocuk  
-**Associate Professor**  
-Faculty of Engineering and Natural Sciences  
-Sabancı University  
-
-**Role:** Advisor (D)  
+![](images/people/yildirim.jpg){width=160px}
+### Dr. Sinan Yıldırım
+**Assistant Professor**
+Engineering and Natural Sciences, Sabancı University
 :::
 
-
-## PhD Students
-
-### Student Name
-
-**Research Topic:** Quantum optimization, semi-definite programming  
-**Affiliation:** Department of Industrial Engineering, Bilkent University
-
+::: {.person}
+![](images/people/birbil.jpg){width=160px}
+### Dr. İlker Birbil
+**Professor**
+Engineering and Natural Sciences, Sabancı University
+:::
 ---
 
-### Student Name
-
-**Research Topic:** Mixed-integer optimization, cutting-plane methods  
-**Affiliation:** Department of Industrial Engineering, Bilkent University
-
-
-## MSc Students
-
-### Student Name
-
-**Focus Area:** Hybrid optimization algorithms  
-**Affiliation:** Department of Industrial Engineering, Bilkent University
-
----
-
-### Student Name
-
-**Focus Area:** Computational optimization  
-**Affiliation:** Department of Industrial Engineering, Bilkent University
-
-
-## Undergraduate Students
+## Students
 
 ### Abide Sıla Yapıcıoğlu
-
-**Role:** Undergraduate Research Assistant  
-**Affiliation:** Department of Industrial Engineering, Bilkent University
+**Role:** Undergraduate Research Assistant
+**Affiliation:** Industrial Engineering, Bilkent University
 
 ---
-
-### Student Name
-
-**Role:** Undergraduate Research Assistant  
-**Affiliation:** Department of Industrial Engineering, Bilkent University
