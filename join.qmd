@@ -1,0 +1,37 @@
+---
+title: "Join QORE"
+---
+
+## Open Positions
+
+**QORE** is looking for motivated graduate students (MSc and PhD) to join our team at Bilkent University. We are looking for students who are passionate about mathematical optimization and emerging technologies.
+
+### Who We Are Looking For
+We welcome applications from students with a strong background in:
+* Industrial Engineering, Mathematics, Computer Science, or related fields.
+* Mathematical modeling and optimization.
+* Basic programming skills (e.g., Python, Julia, or C++).
+
+A background in quantum computing is **not required**, but a strong desire to learn and conduct rigorous research in this area is essential.
+
+---
+
+## How to Apply
+
+If you are interested in joining **QORE**, please send an email to **[Your Email Address]** with the subject line: "Prospective Student - [Your Name]". 
+
+Please include the following in your email:
+1. **A brief introduction** explaining your research interests and why you want to work with us.
+2. **Your CV**, including any relevant projects or publications.
+3. **Your transcripts** (undergraduate and/or graduate).
+
+---
+
+## Undergraduate Research
+We also occasionally have openings for motivated Bilkent undergraduate students to join us as Research Assistants. If you are interested in gaining experience in optimization and quantum research, feel free to reach out.
+
+## Contact Information
+**Office:** [Your Office Number/Location]  
+**Department:** Industrial Engineering  
+**University:** Bilkent University  
+**Email:** [Your Email Address]
