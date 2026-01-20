@@ -16,7 +16,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: join.qmd
-      text: Join us
+        text: Join us
 
 format:
   html:
