@@ -12,7 +12,7 @@ title: "People"
 Department of Industrial Engineering, Bilkent University
 
 **Research Interests:**
-Mixed-integer optimization, quantum algorithms, and hybrid optimization methods.
+Mixed-integer programming, large-scale optimization, quantum optimization.
 :::
 
 ---

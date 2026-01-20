@@ -10,7 +10,7 @@ title: "Welcome to QORE"
 
 ## What We Do
 
-We focus on creating **hybrid quantum-classical algorithms**. Our goal is to solve difficult challenges in decision science and mathematical optimization that are currently too hard for traditional computers to handle alone.
+We focus on creating **hybrid quantum-classical algorithms**. Our goal is to address challenges in decision science and mathematical optimization that are difficult for traditional computers to handle alone.
 
 
 ## Research Focus

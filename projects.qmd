@@ -6,7 +6,6 @@ title: "Projects"
 
 **Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems**
 * **Funding Source:** TÜBİTAK
-* **Budget:** 2,191,600 TL
 * **Period:** 2025–2028
 
 ---
