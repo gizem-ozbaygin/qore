@@ -42,136 +42,164 @@
     "text": "Expected Contributions\nOur research contributes to both theory and practice by:\n\nDeveloping novel hybrid quantum–classical optimization algorithms\n\nAdvancing the algorithmic understanding of MISDP\n\nProviding rigorous computational benchmarks and performance analyses\n\nEstablishing principled guidelines for integrating quantum methods into classical solvers\n\nThrough these contributions, the group aims to bridge the gap between emerging quantum technologies and practical large-scale optimization."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Assistant Professor\nDepartment of Industrial Engineering\nBilkent University\nRole: Principal Investigator (Y)\nResearch Interests:\nQuantum optimization, semi-definite programming, mixed-integer optimization, hybrid quantum–classical algorithms."
+    "text": "Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems\n\nFunding Source: TÜBİTAK\nPeriod: 2025–2028\n\n\nSolving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver\n\nPeriod: 2025-2026"
   },
   {
-    "objectID": "people.html#principal-investigator",
-    "href": "people.html#principal-investigator",
-    "title": "People",
+    "objectID": "projects.html#active-projects",
+    "href": "projects.html#active-projects",
+    "title": "Projects",
     "section": "",
-    "text": "Assistant Professor\nDepartment of Industrial Engineering\nBilkent University\nRole: Principal Investigator (Y)\nResearch Interests:\nQuantum optimization, semi-definite programming, mixed-integer optimization, hybrid quantum–classical algorithms."
+    "text": "Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems\n\nFunding Source: TÜBİTAK\nPeriod: 2025–2028\n\n\nSolving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver\n\nPeriod: 2025-2026"
   },
   {
-    "objectID": "people.html#researchers",
-    "href": "people.html#researchers",
-    "title": "People",
-    "section": "Researchers",
-    "text": "Researchers\n\n\n\nDr. Öğr. Üyesi Cihan Okay\nAssistant Professor\nDepartment of Mathematics\nBilkent University\nRole: Researcher (A)\n\n\n\n\n\nDr. Öğr. Üyesi Diego Moran Ramirez\nAssistant Professor\nDepartment of Industrial and Systems Engineering\nRensselaer Polytechnic Institute\nRole: Researcher (YA)"
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join QORE",
+    "section": "",
+    "text": "QORE is looking for motivated graduate students (MSc and PhD) to join our team at Bilkent University. We are looking for students who are passionate about mathematical optimization and emerging technologies.\n\n\nWe welcome applications from students with a strong background in: * Industrial Engineering, Mathematics, Computer Science, or related fields. * Mathematical modeling and optimization. * Basic programming skills (e.g., Python, Julia, or C++).\nA background in quantum computing is not strictly required, but a strong desire to learn and conduct rigorous research in this area is essential."
   },
   {
-    "objectID": "people.html#advisor",
-    "href": "people.html#advisor",
-    "title": "People",
-    "section": "Advisor",
-    "text": "Advisor\n\n\n\nDoç. Dr. Burak Kocuk\nAssociate Professor\nFaculty of Engineering and Natural Sciences\nSabancı University\nRole: Advisor (D)"
+    "objectID": "join.html#open-positions",
+    "href": "join.html#open-positions",
+    "title": "Join QORE",
+    "section": "",
+    "text": "QORE is looking for motivated graduate students (MSc and PhD) to join our team at Bilkent University. We are looking for students who are passionate about mathematical optimization and emerging technologies.\n\n\nWe welcome applications from students with a strong background in: * Industrial Engineering, Mathematics, Computer Science, or related fields. * Mathematical modeling and optimization. * Basic programming skills (e.g., Python, Julia, or C++).\nA background in quantum computing is not strictly required, but a strong desire to learn and conduct rigorous research in this area is essential."
   },
   {
-    "objectID": "people.html#phd-students",
-    "href": "people.html#phd-students",
-    "title": "People",
-    "section": "PhD Students",
-    "text": "PhD Students\n\nStudent Name\nResearch Topic: Quantum optimization, semi-definite programming\nAffiliation: Department of Industrial Engineering, Bilkent University\n\n\n\nStudent Name\nResearch Topic: Mixed-integer optimization, cutting-plane methods\nAffiliation: Department of Industrial Engineering, Bilkent University"
+    "objectID": "join.html#how-to-apply",
+    "href": "join.html#how-to-apply",
+    "title": "Join QORE",
+    "section": "How to Apply",
+    "text": "How to Apply\nIf you are interested in joining QORE, please send an email to ozbaygin@bilkent.edu.tr with the subject line: “Prospective Student - [Your Name]”.\nPlease include the following in your email:\n\nA brief introduction explaining your research interests and why you want to work with us.\nYour CV, including any relevant projects or publications.\nYour transcripts (undergraduate and/or graduate)."
   },
   {
-    "objectID": "people.html#msc-students",
-    "href": "people.html#msc-students",
-    "title": "People",
-    "section": "MSc Students",
-    "text": "MSc Students\n\nStudent Name\nFocus Area: Hybrid optimization algorithms\nAffiliation: Department of Industrial Engineering, Bilkent University\n\n\n\nStudent Name\nFocus Area: Computational optimization\nAffiliation: Department of Industrial Engineering, Bilkent University"
+    "objectID": "join.html#undergraduate-research",
+    "href": "join.html#undergraduate-research",
+    "title": "Join QORE",
+    "section": "Undergraduate Research",
+    "text": "Undergraduate Research\nWe also occasionally have openings for motivated Bilkent undergraduate students to join us as research assistants. If you are interested in gaining experience in optimization and quantum research, feel free to reach out."
   },
   {
-    "objectID": "people.html#undergraduate-students",
-    "href": "people.html#undergraduate-students",
-    "title": "People",
-    "section": "Undergraduate Students",
-    "text": "Undergraduate Students\n\nAbide Sıla Yapıcıoğlu\nRole: Undergraduate Research Assistant\nAffiliation: Department of Industrial Engineering, Bilkent University\n\n\n\nStudent Name\nRole: Undergraduate Research Assistant\nAffiliation: Department of Industrial Engineering, Bilkent University"
+    "objectID": "join.html#contact-information",
+    "href": "join.html#contact-information",
+    "title": "Join QORE",
+    "section": "Contact Information",
+    "text": "Contact Information\nOffice: EA329\nDepartment of Industrial Engineering\nBilkent University\nEmail: ozbaygin@bilkent.edu.tr"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research at the intersection of optimization theory, computational methods, and emerging quantum technologies.\nOur work is driven by fundamental questions in mathematical optimization and decision science, with a particular emphasis on developing algorithmic frameworks that are both theoretically sound and computationally effective."
+    "text": "QORE (Quantum Operations Research) is a research lab founded at Bilkent University. Our lab is home to a global team of researchers who are experts in various scientific fields. We work at the intersection of optimization theory, computational methods, and emerging quantum technologies."
   },
   {
-    "objectID": "about.html#about-the-group",
-    "href": "about.html#about-the-group",
+    "objectID": "about.html#about-qore",
+    "href": "about.html#about-qore",
     "title": "About",
     "section": "",
-    "text": "The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research at the intersection of optimization theory, computational methods, and emerging quantum technologies.\nOur work is driven by fundamental questions in mathematical optimization and decision science, with a particular emphasis on developing algorithmic frameworks that are both theoretically sound and computationally effective."
+    "text": "QORE (Quantum Operations Research) is a research lab founded at Bilkent University. Our lab is home to a global team of researchers who are experts in various scientific fields. We work at the intersection of optimization theory, computational methods, and emerging quantum technologies."
   },
   {
     "objectID": "about.html#mission",
     "href": "about.html#mission",
     "title": "About",
     "section": "Mission",
-    "text": "Mission\nThe mission of the group is to advance the state of the art in optimization by:\n\nDeveloping rigorous and scalable optimization algorithms\n\nBridging classical optimization methods with emerging quantum computational paradigms\n\nTraining students in mathematically grounded, algorithm-oriented research\n\nContributing to open, reproducible, and high-impact scientific research\n\nWe aim to produce research that is relevant both to the academic community and to real-world decision-making problems."
+    "text": "Mission\nQORE aims to advance the field of optimization by:\n\nBuilding fast and reliable algorithms to solve complex problems\nBridging classical optimization methods with emerging quantum computational paradigms\nTraining students in mathematically grounded, algorithm-oriented research\nScientifically contributing to open, reproducible, and high-impact research\n\nWe aim to conduct research that is valuable to both the academic community and for solving real-world problems."
   },
   {
-    "objectID": "about.html#research-philosophy",
-    "href": "about.html#research-philosophy",
+    "objectID": "about.html#how-we-work",
+    "href": "about.html#how-we-work",
     "title": "About",
-    "section": "Research Philosophy",
-    "text": "Research Philosophy\nThe group follows a methodology-driven research philosophy. Rather than treating quantum computing as a standalone solution, we investigate how quantum resources can be meaningfully integrated into classical optimization frameworks.\nOur research emphasizes: - Mathematical rigor and theoretical guarantees\n- Careful algorithm design and decomposition\n- Transparent computational benchmarking\n- Practical relevance and scalability\nThis philosophy ensures that proposed methods are robust, interpretable, and suitable for real-world applications."
+    "section": "How We Work",
+    "text": "How We Work\nAt QORE, we do not treat quantum computing as a stand-alone solution. Instead, we study how quantum tools can be integrated into existing mathematical frameworks to solve problems more effectively.\nIn our research, we prioritize:\n\nMathematical rigor and clear theoretical foundations.\nSmart algorithm design and decomposition.\nComputational benchmarking to measure how well our methods perform and scale."
   },
   {
-    "objectID": "about.html#collaboration-and-environment",
-    "href": "about.html#collaboration-and-environment",
+    "objectID": "about.html#collaboration",
+    "href": "about.html#collaboration",
     "title": "About",
-    "section": "Collaboration and Environment",
-    "text": "Collaboration and Environment\nThe Quantum Optimization Research Group maintains an open and collaborative research environment. We actively collaborate with researchers from different disciplines, including:\n\nIndustrial Engineering\n\nMathematics\n\nComputer Science\n\nSystems and Control Engineering\n\nThe group also participates in national and international research projects and welcomes collaboration with academic and industrial partners."
+    "section": "Collaboration",
+    "text": "Collaboration\nQORE is a collaborative group. We work with experts across different disciplines, participate in national and international projects and welcome partnerships with both academic and industrial partners."
   },
   {
-    "objectID": "about.html#location-and-affiliation",
-    "href": "about.html#location-and-affiliation",
+    "objectID": "about.html#where-we-are",
+    "href": "about.html#where-we-are",
     "title": "About",
-    "section": "Location and Affiliation",
-    "text": "Location and Affiliation\nThe group is affiliated with Bilkent University, one of the leading research universities in Türkiye. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community.\nResearch activities are conducted within the Department of Industrial Engineering, benefiting from close interaction with faculty and students across departments."
+    "section": "Where We Are",
+    "text": "Where We Are\nQORE is based in the Department of Industrial Engineering at Bilkent University, one of the leading research universities in Turkey. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Quantum Optimization Research Group",
+    "title": "Welcome to QORE",
     "section": "",
-    "text": "The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research on quantum optimization, computational methods, and mathematical modeling."
+    "text": "QORE (Quantum Operations Research) is a research lab based in Bilkent University. We develop new methods to solve complex problems by combining classical optimization with quantum approaches to investigate where quantum technology has the potential to provide a real advantage."
   },
   {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Welcome to Quantum Optimization Research Group",
-    "section": "Overview",
-    "text": "Overview\nThe Quantum Optimization Research Group focuses on the development of hybrid quantum classical optimization algorithms for challenging problems arising in mathematical optimization and decision science. Our work lies at the intersection of quantum computing, optimization theory, and computational methods."
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Welcome to QORE",
+    "section": "What We Do",
+    "text": "What We Do\nWe focus on developing and testing hybrid quantum-classical algorithms to address challenges in decision science and mathematical optimization that are difficult for traditional computers to handle alone."
   },
   {
     "objectID": "index.html#research-focus",
     "href": "index.html#research-focus",
-    "title": "Welcome to Quantum Optimization Research Group",
+    "title": "Welcome to QORE",
     "section": "Research Focus",
-    "text": "Research Focus\nOur primary research direction is the design and analysis of algorithms for Mixed Integer Semidefinite Programming and related problem classes. These problems are computationally demanding and arise in a wide range of applications, including control, finance, and engineering design.\nWe investigate how quantum resources, when integrated with classical optimization frameworks, can improve performance in terms of solution quality, scalability, and computational efficiency."
+    "text": "Research Focus\nOur primary work lies in mixed-integer optimization, which is a broad family of optimization problems found in numerous application areas, including:\n\nLogistics and Transportation\nFinance and Risk Management\nPower Systems\n\nWe study how and when quantum algorithmic components can enhance the solution of mixed-integer optimization problems."
   },
   {
-    "objectID": "index.html#methodological-approach",
-    "href": "index.html#methodological-approach",
-    "title": "Welcome to Quantum Optimization Research Group",
-    "section": "Methodological Approach",
-    "text": "Methodological Approach\nOur research emphasizes: - Hybrid quantum classical algorithm design\n- Semidefinite programming and cutting-plane methods\n- Branch and bound frameworks for mixed-integer problems\n- Computational benchmarking and performance evaluation"
+    "objectID": "index.html#our-approach",
+    "href": "index.html#our-approach",
+    "title": "Welcome to QORE",
+    "section": "Our Approach",
+    "text": "Our Approach\nIn our lab, we aim to bridge the gap between theory and practice by focusing on:\n\nHybrid Algorithm Design: Combining the strengths of both classical and quantum computing.\nSmart Frameworks: Developing new ways to break down and solve mixed-integer problems.\nComputational Testing: Using rigorous benchmarking to explore the performance and scalability of our methods."
   },
   {
     "objectID": "index.html#keywords",
     "href": "index.html#keywords",
-    "title": "Welcome to Quantum Optimization Research Group",
+    "title": "Welcome to QORE",
     "section": "Keywords",
-    "text": "Keywords\nHybrid quantum classical optimization, MISDP, semidefinite programming, branch and bound, quantum algorithms"
+    "text": "Keywords\nHybrid Optimization, Mixed-Integer Optimization, Quantum Algorithms, Algorithm Design, Decision Science"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "We are an interdisciplinary team of researchers from around the globe collaborating on various projects."
+  },
+  {
+    "objectID": "people.html#director",
+    "href": "people.html#director",
+    "title": "People",
+    "section": "Director",
+    "text": "Director\n\n\n\nDr. Amine Gizem Tiniç\nAssistant Professor Department of Industrial Engineering, Bilkent University\nResearch Interests: Mixed-integer programming, large-scale optimization, quantum optimization."
+  },
+  {
+    "objectID": "people.html#affiliated-faculty",
+    "href": "people.html#affiliated-faculty",
+    "title": "People",
+    "section": "Affiliated Faculty",
+    "text": "Affiliated Faculty\n\n\n\nDr. Firdevs Ulus\nAssociate Professor Department of Industrial Engineering, Bilkent University\n\n\n\n\n\nDr. Özlem Çavuş\nAssociate Professor Department of Industrial Engineering, Bilkent University\n\n\n\n\n\nDr. Cihan Okay\nAssistant Professor Department of Mathematics, Bilkent University\n\n\n\n\n\nDr. Burak Kocuk\nAssociate Professor Engineering and Natural Sciences, Sabancı University\n\n\n\n\n\nDr. Diego Moran Ramirez\nAssistant Professor Industrial and Systems Engineering, Rensselaer Polytechnic Institute\n\n\n\n\n\nDr. Sinan Yıldırım\nAssistant Professor Engineering and Natural Sciences, Sabancı University\n\n\n\n\n\nDr. İlker Birbil\nProfessor Faculty of Economics and Business, University of Amsterdam"
+  },
+  {
+    "objectID": "people.html#undergraduate-research-assistants",
+    "href": "people.html#undergraduate-research-assistants",
+    "title": "People",
+    "section": "Undergraduate Research Assistants",
+    "text": "Undergraduate Research Assistants\n\nAbide Sıla Yapıcıoğlu\nGökhan Gülçakır"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "References\n\nSurname, Name, and Second Coauthor. 2024. “Hybrid Quantum–Classical Methods for Semi-Definite Optimization.” Journal of Optimization Theory."
+    "text": "References\n\nSurname, Name, and Second Coauthor. 2024. “Hybrid Quantum–Classical Methods for Mixed-Integer Optimization.” Journal of Optimization Theory."
   }
 ]
