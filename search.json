@@ -46,14 +46,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems\n\nFunding Source: TÜBİTAK\nPeriod: 2025–2028\n\n\nSolving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver\n\nPeriod: 2025-2026"
+    "text": "Polyhedral simulation and optimization in measurement-based quantum computation (PI: Cihan Okay)\n\nFunding Source: TÜBİTAK\nPeriod: 2026-2028\n\n\nQuantum approaches for resource-constrained shortest path problems\n\nPeriod: 2026-2027\n\n\nHybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems\n\nFunding Source: TÜBİTAK\nPeriod: 2025–2028\n\n\nSolving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver\n\nPeriod: 2025-2026"
   },
   {
     "objectID": "projects.html#active-projects",
     "href": "projects.html#active-projects",
     "title": "Projects",
     "section": "",
-    "text": "Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems\n\nFunding Source: TÜBİTAK\nPeriod: 2025–2028\n\n\nSolving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver\n\nPeriod: 2025-2026"
+    "text": "Polyhedral simulation and optimization in measurement-based quantum computation (PI: Cihan Okay)\n\nFunding Source: TÜBİTAK\nPeriod: 2026-2028\n\n\nQuantum approaches for resource-constrained shortest path problems\n\nPeriod: 2026-2027\n\n\nHybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems\n\nFunding Source: TÜBİTAK\nPeriod: 2025–2028\n\n\nSolving a completely positive programming reformulation of the quadratic assignment problem with a hybrid quantum-classical solver\n\nPeriod: 2025-2026"
   },
   {
     "objectID": "join.html",
@@ -189,11 +189,11 @@
     "text": "Affiliated Faculty\n\n\n\nDr. Firdevs Ulus\nAssociate Professor Department of Industrial Engineering, Bilkent University\nFirdevs’ research focuses on multi-objective and vector optimization, particularly on designing and analyzing algorithms for linear, convex, nonconvex, and combinatorial vector optimization problems.\n\n\n\n\n\nDr. Özlem Çavuş\nAssociate Professor Department of Industrial Engineering, Bilkent University\nÖzlem’s research interests are in stochastic optimization, risk-averse optimization, Markov decision processes, and medical decision making.\n\n\n\n\n\nDr. Cihan Okay\nAssistant Professor Department of Mathematics, Bilkent University\nCihan’s research is on the mathematics of quantum computing specializing in applications of methods from algebraic topology, representation theory, and polyhedral combinatorics to quantum foundations and computing.\n\n\n\n\n\nDr. Burak Kocuk\nAssociate Professor Engineering and Natural Sciences, Sabancı University\nBurak’s research focuses on developing global optimization methods for mixed-integer nonlinear programming problems arising in engineering optimization and stochastic optimization.\n\n\n\n\n\nDr. Diego Moran Ramirez\nAssistant Professor Industrial and Systems Engineering, Rensselaer Polytechnic Institute\nDiego’s research focuses on the theory of mixed integer programming, cutting planes, and duality.\n\n\n\n\n\nDr. Sinan Yıldırım\nAssistant Professor Engineering and Natural Sciences, Sabancı University\nSinan’s research focuses on Bayesian statistics, Monte Carlo methods, and data privacy in machine learning.\n\n\n\n\n\nDr. İlker Birbil\nProfessor Faculty of Economics and Business, University of Amsterdam\nIlker’s research focuses on optimization methods for artificial intelligence and decision making. More recently, he is interested in explainable and trustworthy optimization."
   },
   {
-    "objectID": "people.html#undergraduate-research-assistants",
-    "href": "people.html#undergraduate-research-assistants",
+    "objectID": "people.html#research-assistants",
+    "href": "people.html#research-assistants",
     "title": "People",
-    "section": "Undergraduate Research Assistants",
-    "text": "Undergraduate Research Assistants\n\nAbide Sıla Yapıcıoğlu (IE)\nHüseyin Beyribey (IE)"
+    "section": "Research Assistants",
+    "text": "Research Assistants\n\nEce Kuşdemir (IE - masters)\nHüseyin Beyribey (IE - undergrad)"
   },
   {
     "objectID": "publications.html",
