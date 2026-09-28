@@ -4,6 +4,13 @@ title: "Projects"
 
 ## Active Projects
 
+**Polyhedral simulation and optimization in measurement-based quantum computation (PI: Cihan Okay)**
+
+* **Funding Source:** TÜBİTAK
+* **Period:** 2026-2028
+
+---
+
 **Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems**
 
 * **Funding Source:** TÜBİTAK
