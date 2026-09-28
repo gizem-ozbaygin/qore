@@ -11,6 +11,12 @@ title: "Projects"
 
 ---
 
+**Quantum approaches for resource-constrained shortest path problems**
+
+* **Period:** 2026-2027
+
+---
+
 **Hybrid Quantum-Classical Methods for Mixed Integer Semi-definite Programming Problems**
 
 * **Funding Source:** TÜBİTAK
